@@ -20,15 +20,19 @@ Currently I am studying computer science in university to gain more knowledge on
 
 <div style="background-colour:#0A0A0A">
 <h2 style="color:#DEF7E7;"><u>What are my skills:</u></h2>
-I am able to create functional programs that meet a specific need/purpose utilising my knowledge and any recources that are of use or provided.
-I good at working in groups for projects.
-I am also good at working alone on projects.
+<ul>
+<li>I am able to create functional programs that meet a specific need/purpose utilising my knowledge and any recources that are of use or provided.</li>
+<li>I good at working in groups for projects.</li>
+<li>I am also good at working alone on projects.</li>
+</ul>
 </div>
 
 <div style="background-colour:#FF8200">
 <h2 style="color:#996515;"><u>What are my hobbies:</u></h2>
-My hobbies mainly consist of playing video games in my spare time as I enjoy the experience they provide.
-I also enjoy watching TV shows and movies for similar reasons.
+<ul>
+<li>My hobbies mainly consist of playing video games in my spare time as I enjoy the experience they provide.</li>
+<li>I also enjoy watching TV shows and movies for similar reasons.</li>
+</ul>
 <br>
 <img src="John gamer.png" alt="Gamer gaming">
 <br>
