@@ -1,16 +1,16 @@
-## Hi there 👋
+Hello👋 I am @DominicSenior
 
-<!--
-**DominicSenior/DominicSenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+My name is Dominic Senior. I am 18 years old and currently live in Wales (UK). 
 
-Here are some ideas to get you started:
+What I am currently doing:
+Currently I am studying computer science in university to gain more knowledge on how to create programs and I aim to be able to use the knowledge I gain from the course to get work placement in a company for being a programmer and pottentially starting my own programming bussiness in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What are my skills:
+I am able to create functional programs that meet a specific need/purpose utilising my knowledge and any recources that are of use or provided.
+I good at working in groups for projects.
+I am also good at working alone on projects.
+
+
+What are my hobbies:
+My hobbies mainly consist of playing video games in my spare time as I enjoy the experience they provide. I also enjoy watching TV shows and movies for similar reasons.
