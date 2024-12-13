@@ -31,7 +31,7 @@ Currently I am studying computer science in university to gain more knowledge on
 <img src="John film.png" alt="Tv playing a film">
 
 <h2><u>Completed projects</u></h2>
-<h1> Programming practical courswork 1</h1>
+<h3> Programming practical courswork 1</h3>
 <ul>
 <li>Anual high temperatures</li>
 <li>World population</li>
@@ -44,7 +44,7 @@ Currently I am studying computer science in university to gain more knowledge on
 <li>Rainfall</li>
 </ul>
 
-<h1> Programminging practical coursework 2</h1>
+<h3> Programminging practical coursework 2</h3>
 <ul>
 <li>Weight conversion</li>
 <li>Average speed</li>
@@ -57,7 +57,7 @@ Currently I am studying computer science in university to gain more knowledge on
 </ul>
 
 <h2><u>Current/Unfinished projects</u></h2>
-<h1>Programming practical coursework 2</h1>
+<h3>Programming practical coursework 2</h3>
 <ul>
 <li>Student performacne class</li>
 <li>Test scores #2</li>
